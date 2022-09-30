@@ -32,6 +32,10 @@ div.tarjeta {
     background-size: 100%;
 }
 
+div.tarjeta h2 {
+    color: violet;
+}
+
 html{
     width: 100%;
 }
