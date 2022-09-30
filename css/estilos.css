@@ -1,6 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Khand:wght@300&family=Mouse+Memoirs&family=Oleo+Script+Swash+Caps&family=Princess+Sofia&family=Roboto:wght@100&family=Square+Peg&family=Trocchi&display=swap');
+
 h1{
     text-align: center;
     color: crimson;
     padding: 20px;
     margin: 20px auto;
+    border: 5px solid blue;
+    border-radius: 10px;
+    max-width: 50%;
+    font-style: italic;
+    font-size:30px;
+    font-weight: 900;
+    font-family:'Princess Sofia', cursive;
+    box-sizing: border-box;
+    box-shadow: inset 10px 0px 5px -6px black;
+    font-variant: small-caps;
+    text-shadow: 2px 2px 5px black;
+}
+
+div.tarjeta {
+    max-width: 70%;
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 20px auto ;
+    color :blue;
+    padding: 30px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    background: url("/imagenes/naranjas\ amarrillas.webp") no-repeat top yellow;
+    background-attachment: fixed;
+    background-size: 100%;
 }
