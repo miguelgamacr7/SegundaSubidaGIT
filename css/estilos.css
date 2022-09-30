@@ -46,6 +46,17 @@ body{
     background-size: 100%;
 }
 
+div.centrar_imagen{
+    border: 3px solid red;
+    width: 40%;
+    margin: auto;
+}
+
+div.centrar_imagen img {
+    width: 100%;
+}
+
+
 div.centrar{
     text-align: center;
     font-size: 50px;
